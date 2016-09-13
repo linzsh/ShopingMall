@@ -1,2 +1,1 @@
-abc
-efg
+this is a git test file.
